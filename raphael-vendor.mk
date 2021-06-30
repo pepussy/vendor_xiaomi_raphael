@@ -1873,16 +1873,13 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/raphael/proprietary/vendor/radio/qcril_database/upgrade/7_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/7_version_update_ecc_table.sql
 
 PRODUCT_PACKAGES += \
+    libadsprpc \
+    libfastcvopt \
+    liblbs_core \
     libsdsprpc \
     libthermalclient \
     libMpeg4SwEncoder \
     libOmxSwVencMpeg4 \
-    libadsprpc \
-    libfastcvopt \
-    liblbs_core \
-    libadsprpc \
-    libfastcvopt \
-    liblbs_core \
     libsdm-disp-vndapis \
     com.quicinc.cne.api@1.0 \
     com.quicinc.cne.api@1.1 \
