@@ -340,6 +340,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/raphael/proprietary/vendor/etc/camera/lf_facerank_model.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/lf_facerank_model.bin \
     vendor/xiaomi/raphael/proprietary/vendor/etc/camera/male_bg.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/male_bg.png \
     vendor/xiaomi/raphael/proprietary/vendor/etc/camera/male_icon.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/male_icon.png \
+    vendor/xiaomi/raphael/proprietary/vendor/lib64/mibokeh_855_opencl.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/mibokeh_855_opencl.bin \
     vendor/xiaomi/raphael/proprietary/vendor/etc/camera/model_back.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/model_back.dlc \
     vendor/xiaomi/raphael/proprietary/vendor/etc/camera/model_front.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/model_front.dlc \
     vendor/xiaomi/raphael/proprietary/vendor/etc/camera/sceneDetection.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sceneDetection.xml \
@@ -1736,7 +1737,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/libxml.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxml.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/libxtadapter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxtadapter.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/mi.motor.daemon.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mi.motor.daemon.so \
-    vendor/xiaomi/raphael/proprietary/vendor/lib64/mibokeh_855_opencl.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/mibokeh_855_opencl.bin \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/qcrild_librilutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/qcrild_librilutils.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/qtibus.so:$(TARGET_COPY_OUT_VENDOR)/lib64/qtibus.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/qtimutex.so:$(TARGET_COPY_OUT_VENDOR)/lib64/qtimutex.so \
